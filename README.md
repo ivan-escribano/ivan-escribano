@@ -29,6 +29,8 @@ API, API, PHP, MySQL, Java, etc...
 ## 🏆 Stats
 <div align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivan-escribano&show_icons=true&locale=en&layout=compact" alt="ivan-escribano" /></p>
+  <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivan-escribano&show_icons=true&locale=en" alt="ivan-escribano" /></p>
+  <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivan-escribano&" alt="ivan-escribano" /></p>
 </div>
