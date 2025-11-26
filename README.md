@@ -4,7 +4,7 @@
 
 I'm a **Software Engineer & AI Engineer** based in Barcelona with 8+ years in tech and 5+ years building web applications.
 
-Currently **CTO & Co-Founder at [WeUp](https://www.weupapp.com)**, a SaaS platform that helps freelancers, agencies, and companies create LinkedIn content using AI. We've reached +500 users across Spain, LATAM, and the US.
+Currently **CTO & Co-Founder at [WeUp](https://www.weup.ai)**, a SaaS platform that helps freelancers, agencies, and companies create LinkedIn content using AI. We've reached +500 users across Spain, LATAM, and the US.
 
 My focus: combining **Full Stack development** with **AI integration** to build products that solve real problems.
 
@@ -32,13 +32,10 @@ My focus: combining **Full Stack development** with **AI integration** to build 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivan-escribano&show_icons=true&theme=default&hide_border=true&hide=stars&count_private=true)
-
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-escribano-dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ivanescribano1998@gmail.com)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://substack.com/@ivanescribano)
 [![Medium](https://img.shields.io/badge/Medium-000?style=flat&logo=medium&logoColor=white)](https://medium.com/@ivanescribano1998)
 [![X](https://img.shields.io/badge/X-000?style=flat&logo=x&logoColor=white)](https://x.com/IvanEscribano98)
